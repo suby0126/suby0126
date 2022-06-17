@@ -1,1 +1,1 @@
-usless boring repository manager
+usless and boring repository manager
